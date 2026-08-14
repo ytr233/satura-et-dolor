@@ -423,3 +423,19 @@
 ## Actus in Cursum
 ![Actus in Cursum](comics/actus-in-cursum.png)
 *James 1:22*
+
+## Oculi Produnt
+![Oculi Produnt](comics/oculi-produnt.png)
+*Ephesians 4:31–32*
+
+## Ex Costa, Non Argilla
+![Ex Costa, Non Argilla](comics/ex-costa-non-argilla.png)
+*Philippians 2:3–4*
+
+## Peccatum Domum Redit
+![Peccatum Domum Redit](comics/peccatum-domum-redit.png)
+*Proverbs 28:13*
+
+## Malum Non in Mālo
+![Malum Non in Mālo](comics/malum-non-in-malo.png)
+*2 Corinthians 10:5*

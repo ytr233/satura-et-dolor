@@ -439,3 +439,11 @@
 ## Malum Non in Mālo
 ![Malum Non in Mālo](comics/malum-non-in-malo.png)
 *2 Corinthians 10:5*
+
+## Speculum Desiderii
+![Speculum Desiderii](comics/speculum-desiderii.png)
+*Proverbs 4:23*
+
+## Electio Tacita
+![Electio Tacita](comics/electio-tacita.png)
+*Psalm 101:6*

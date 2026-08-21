@@ -447,3 +447,43 @@
 ## Electio Tacita
 ![Electio Tacita](comics/electio-tacita.png)
 *Psalm 101:6*
+
+## De Ore Leonum
+![De Ore Leonum](comics/de-ore-leonum.png)
+*Daniel 6:22*
+
+## Corona Sine Consilio
+![Corona Sine Consilio](comics/corona-sine-consilio.png)
+*Proverbs 11:14*
+
+## Mater Vigilans
+![Mater Vigilans](comics/mater-vigilans.png)
+*Psalm 121:4*
+
+## Inventi Sunt
+![Inventi Sunt](comics/inventi-sunt.png)
+*Ecclesiastes 12:14*
+
+## Iudices Captivi
+![Iudices Captivi](comics/iudices-captivi.png)
+*Hebrews 13:3*
+
+## Vigiles a Populo
+![Vigiles a Populo](comics/vigiles-a-populo.png)
+*Isaiah 1:17*
+
+## Arca Verborum
+![Arca Verborum](comics/arca-verborum.png)
+*Isaiah 40:8*
+
+## Puteus Sine Fundo
+![Puteus Sine Fundo](comics/puteus-sine-fundo.png)
+*Psalm 38:6*
+
+## Venenum Bifrons
+![Venenum Bifrons](comics/venenum-bifrons.png)
+*Psalm 64:1–2*
+
+## Dux Natus
+![Dux Natus](comics/dux-natus.png)
+*1 Samuel 18:14–16*

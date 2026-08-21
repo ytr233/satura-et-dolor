@@ -487,3 +487,19 @@
 ## Dux Natus
 ![Dux Natus](comics/dux-natus.png)
 *1 Samuel 18:14–16*
+
+## Vinculum Venenatum
+![Vinculum Venenatum](comics/vinculum-venenatum.png)
+*Psalm 55:20–21*
+
+## Bulla Commoda
+![Bulla Commoda](comics/bulla-commoda.png)
+*James 4:17*
+
+## Audacia Sine Opibus
+![Audacia Sine Opibus](comics/audacia-sine-opibus.png)
+*1 Corinthians 1:27*
+
+## Vultus Cordis
+![Vultus Cordis](comics/vultus-cordis.png)
+*Matthew 6:22–23*

@@ -503,3 +503,15 @@
 ## Vultus Cordis
 ![Vultus Cordis](comics/vultus-cordis.png)
 *Matthew 6:22–23*
+
+## Prima Mors
+![Prima Mors](comics/prima-mors.png)
+*Hebrews 11:17*
+
+## Quis Perfectior?
+![Quis Perfectior?](comics/quis-perfectior.png)
+*Genesis 3:6*
+
+## Solus Non Bonus
+![Solus Non Bonus](comics/solus-non-bonus.png)
+*1 John 4:18*

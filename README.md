@@ -519,3 +519,7 @@
 ## Arcana Mentis
 ![Arcana Mentis](comics/arcana-mentis.png)
 *1 Corinthians 2:11*
+
+## Nomen Manet
+![Nomen Manet](comics/nomen-manet.png)
+*Genesis 2:19*

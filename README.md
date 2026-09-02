@@ -504,9 +504,9 @@
 ![Vultus Cordis](comics/vultus-cordis.png)
 *Matthew 6:22–23*
 
-## Prima Mors
-![Prima Mors](comics/prima-mors.png)
-*Hebrews 11:17*
+## Vita Ex Morte
+![Vita Ex Morte](comics/vita-ex-morte.png)
+*Romans 8:22*
 
 ## Quis Perfectior?
 ![Quis Perfectior?](comics/quis-perfectior.png)
@@ -515,3 +515,7 @@
 ## Solus Non Bonus
 ![Solus Non Bonus](comics/solus-non-bonus.png)
 *1 John 4:18*
+
+## Arcana Mentis
+![Arcana Mentis](comics/arcana-mentis.png)
+*1 Corinthians 2:11*

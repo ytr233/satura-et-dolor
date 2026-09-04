@@ -523,3 +523,7 @@
 ## Nomen Manet
 ![Nomen Manet](comics/nomen-manet.png)
 *Genesis 2:19*
+
+## Potentia Maior
+![Potentia Maior](comics/potentia-maior.png)
+*Genesis 1:27*

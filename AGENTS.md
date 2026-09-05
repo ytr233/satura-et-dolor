@@ -36,6 +36,7 @@ These instructions are the default for all work in this repository, especially n
 - Save artwork as a lowercase hyphenated slug in `src/assets/comics/<slug>.png`.
 - Register it in `src/comics.js` with `page("<slug>", "<Latin Title>", scripture?)`.
 - Scripture is optional metadata displayed by the gallery, never printed inside the comic image. Use the existing `{ reference, text }` structure and the collection's established translation style.
+- Do not use Isaiah 46:10 unless a comic depicts it ironically in relation to there being no ending.
 - After adding or replacing a page, run `npm run build` and verify that the generated asset is included.
 
 ## Image-generation workflow

@@ -527,3 +527,7 @@
 ## Potentia Maior
 ![Potentia Maior](comics/potentia-maior.png)
 *Genesis 1:27*
+
+## Causa Amoria
+![Causa Amoria](comics/causa-amoria.png)
+*Psalm 2:4*
